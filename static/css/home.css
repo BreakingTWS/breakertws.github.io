@@ -246,7 +246,7 @@ section {
     display: flex;
     align-items: center;
     padding: 4 9%;
-    background: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.tuyeGJ6C72QG8ZFrVY-OPwHaFj%26pid%3DApi&f=1&ipt=5b2f2f1098baf4bfb4438f09887bf4a6b5fca9b1c1bf0a2547ea34bffad4fafa&ipo=images') no-repeat;
+    background: url('/static/img/btws.jpg') no-repeat;
     background-size: auto;
     background-position: 73rem 2.8rem;
     transition: .5s;
